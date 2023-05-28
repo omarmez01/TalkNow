@@ -28,7 +28,7 @@ Getting Started
 
 To run TalkNow locally on your machine, follow these steps:
 
-1.  Clone the repository: `git clone https://github.com/your-username/TalkNow.git`
+1.  Clone the repository: `git clone https://github.com/omarmez01/TalkNow.git`
 2.  Install the necessary dependencies by running `npm install` in the project directory.
 3.  Set up your MySQL database and configure the connection details in the `config.js` file.
 4.  Start the development server with `npm start` and navigate to `http://localhost:3000` in your browser.
