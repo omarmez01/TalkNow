@@ -21,6 +21,7 @@ TalkNow is developed using the following technologies:
 -   HTML: The foundation of the application's structure and content.
 -   Tailwind CSS: A highly customizable CSS framework that provides an intuitive and modern design.
 -   MySQL: A robust and scalable database management system for efficient data storage and retrieval.
+-   JavaScript: The scripting language used to add interactivity and dynamic functionality to the application.
 
 Getting Started
 ---------------
